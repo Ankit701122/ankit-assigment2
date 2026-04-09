@@ -1,2 +1,2 @@
-# ankit-assigment2
-assignment2
+My Project
+This repository contains the source code for My Project, a simple application to demonstrate GIT usage.
